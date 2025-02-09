@@ -1,0 +1,26 @@
+2025/01/30-20:23:54.752 f6a Reusing MANIFEST /home/alex/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/01/30-20:23:54.756 f6a Recovering log #219
+2025/01/30-20:23:54.756 f6a Level-0 table #223: started
+2025/01/30-20:23:54.757 f6a Level-0 table #223: 66832 bytes OK
+2025/01/30-20:23:54.757 f6a Recovering log #223
+2025/01/30-20:23:54.757 f6a Reusing old log /home/alex/.config/vesktop/sessionData/Local Storage/leveldb/000223.log 
+2025/01/30-20:23:54.757 f6a Delete type=0 #219
+2025/01/30-20:23:54.758 f6a Delete type=2 #224
+2025/01/30-20:30:27.932 f6b Level-0 table #225: started
+2025/01/30-20:30:27.935 f6b Level-0 table #225: 63518 bytes OK
+2025/01/30-20:30:27.936 f6b Delete type=0 #223
+2025/01/30-21:10:12.652 f6b Level-0 table #227: started
+2025/01/30-21:10:12.656 f6b Level-0 table #227: 23015 bytes OK
+2025/01/30-21:10:12.657 f6b Delete type=0 #224
+2025/01/31-18:25:04.727 f6b Level-0 table #229: started
+2025/01/31-18:25:04.731 f6b Level-0 table #229: 67720 bytes OK
+2025/01/31-18:25:04.732 f6b Delete type=0 #226
+2025/01/31-18:25:04.732 f6b Compacting 4@0 + 1@1 files
+2025/01/31-18:25:04.733 f6b Generated table #230@0: 78 keys, 67816 bytes
+2025/01/31-18:25:04.733 f6b Compacted 4@0 + 1@1 files => 67816 bytes
+2025/01/31-18:25:04.733 f6b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-18:25:04.734 f6b Delete type=2 #221
+2025/01/31-18:25:04.734 f6b Delete type=2 #223
+2025/01/31-18:25:04.734 f6b Delete type=2 #225
+2025/01/31-18:25:04.734 f6b Delete type=2 #227
+2025/01/31-18:25:04.734 f6b Delete type=2 #229

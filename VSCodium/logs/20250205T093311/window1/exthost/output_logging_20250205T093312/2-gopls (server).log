@@ -1,0 +1,534 @@
+[Info  - 09:43:25] 2025/02/05 09:43:25 Created View (#1)
+	directory=/home/alex/Code/Backend
+	view_type="AdHoc"
+	root_dir="file:///home/alex/Code/Backend"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 09:43:25] 2025/02/05 09:43:25 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[./ builtin]
+	packages=2
+	duration=8.187205ms
+
+[Info  - 09:43:25] 2025/02/05 09:43:25 Created View (#2)
+	directory=/home/alex/Code/Backend
+	view_type="GoMod"
+	root_dir="file:///home/alex/Code/Backend/Go"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 09:43:25] 2025/02/05 09:43:25 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=2
+	duration=55.749598ms
+
+[Info  - 09:43:55] 2025/02/05 09:43:55 background imports cache refresh starting
+
+[Info  - 09:43:55] 2025/02/05 09:43:55 background refresh finished after 2.451554ms
+
+[Info  - 09:43:55] 2025/02/05 09:43:55 background imports cache refresh starting
+
+[Info  - 09:43:55] 2025/02/05 09:43:55 background refresh finished after 48.660647ms
+
+[Info  - 09:44:42] 2025/02/05 09:44:42 go/packages.Load #3
+	view_id="2"
+	snapshot=2
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=2
+	duration=50.458717ms
+
+[Info  - 09:44:58] 2025/02/05 09:44:58 go/packages.Load #4
+	view_id="2"
+	snapshot=3
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=50.508633ms
+
+[Info  - 09:45:28] 2025/02/05 09:45:28 background imports cache refresh starting
+
+[Info  - 09:45:28] 2025/02/05 09:45:28 background refresh finished after 8.873462ms
+
+[Info  - 09:46:04] 2025/02/05 09:46:04 background imports cache refresh starting
+
+[Info  - 09:46:04] 2025/02/05 09:46:04 background refresh finished after 1.905134ms
+
+[Info  - 09:50:14] 2025/02/05 09:50:14 go/packages.Load #5
+	view_id="2"
+	snapshot=31
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=9.603967ms
+
+[Info  - 09:50:16] 2025/02/05 09:50:16 go/packages.Load #6
+	view_id="2"
+	snapshot=32
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=56.454922ms
+
+[Info  - 09:50:16] 2025/02/05 09:50:16 go/packages.Load #7
+	view_id="2"
+	snapshot=32
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=66.353641ms
+
+[Info  - 09:50:44] 2025/02/05 09:50:44 background imports cache refresh starting
+
+[Info  - 09:50:44] 2025/02/05 09:50:44 background refresh finished after 4.284981ms
+
+[Info  - 09:51:03] 2025/02/05 09:51:03 go/packages.Load #8
+	view_id="2"
+	snapshot=37
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=63.794969ms
+
+[Info  - 09:51:03] 2025/02/05 09:51:03 go/packages.Load #9
+	view_id="2"
+	snapshot=37
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=63.942804ms
+
+[Info  - 09:51:33] 2025/02/05 09:51:33 background imports cache refresh starting
+
+[Info  - 09:51:33] 2025/02/05 09:51:33 background refresh finished after 1.595383ms
+
+[Info  - 09:55:27] 2025/02/05 09:55:27 go/packages.Load #10
+	view_id="2"
+	snapshot=42
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=61.815698ms
+
+[Info  - 09:55:27] 2025/02/05 09:55:27 go/packages.Load #11
+	view_id="2"
+	snapshot=42
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=47.05287ms
+
+[Info  - 09:55:58] 2025/02/05 09:55:58 background imports cache refresh starting
+
+[Info  - 09:55:58] 2025/02/05 09:55:58 background refresh finished after 5.44732ms
+
+[Info  - 09:58:04] 2025/02/05 09:58:04 background imports cache refresh starting
+
+[Info  - 09:58:04] 2025/02/05 09:58:04 background refresh finished after 3.290184ms
+
+[Info  - 09:59:33] 2025/02/05 09:59:33 background imports cache refresh starting
+
+[Info  - 09:59:33] 2025/02/05 09:59:33 background refresh finished after 2.004136ms
+
+[Info  - 10:00:11] 2025/02/05 10:00:11 background imports cache refresh starting
+
+[Info  - 10:00:11] 2025/02/05 10:00:11 background refresh finished after 4.321524ms
+
+[Info  - 10:01:04] 2025/02/05 10:01:04 go/packages.Load #12
+	view_id="2"
+	snapshot=83
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=2
+	duration=58.339113ms
+
+[Info  - 10:01:04] 2025/02/05 10:01:04 go/packages.Load #13
+	view_id="2"
+	snapshot=83
+	directory=/home/alex/Code/Backend
+	query=[database/sql database/sql/driver encoding encoding/json filippo.io/edwards25519 filippo.io/edwards25519/field github.com/go-sql-driver/mysql html html/template regexp regexp/syntax text/template text/template/parse]
+	packages=43
+	duration=108.071554ms
+
+[Info  - 10:01:24] 2025/02/05 10:01:24 go/packages.Load #14
+	view_id="2"
+	snapshot=84
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=77.758637ms
+
+[Info  - 10:01:24] 2025/02/05 10:01:24 go/packages.Load #15
+	view_id="2"
+	snapshot=84
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=57.243441ms
+
+[Info  - 10:01:54] 2025/02/05 10:01:54 background imports cache refresh starting
+
+[Info  - 10:01:54] 2025/02/05 10:01:54 background refresh finished after 11.194687ms
+
+[Info  - 10:03:22] 2025/02/05 10:03:22 go/packages.Load #16
+	view_id="1"
+	snapshot=98
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/routing.go]
+	packages=1
+	duration=11.305312ms
+
+[Info  - 10:03:24] 2025/02/05 10:03:24 go/packages.Load #17
+	view_id="2"
+	snapshot=101
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=5.462781ms
+
+[Info  - 10:03:24] 2025/02/05 10:03:24 go/packages.Load #18
+	view_id="2"
+	snapshot=102
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=4.762527ms
+
+[Info  - 10:03:25] 2025/02/05 10:03:25 go/packages.Load #19
+	view_id="2"
+	snapshot=103
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=65.750996ms
+
+[Info  - 10:03:25] 2025/02/05 10:03:25 go/packages.Load #20
+	view_id="2"
+	snapshot=103
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=68.11076ms
+
+[Info  - 10:03:42] 2025/02/05 10:03:42 go/packages.Load #21
+	view_id="2"
+	snapshot=106
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=56.115442ms
+
+[Info  - 10:03:42] 2025/02/05 10:03:42 go/packages.Load #22
+	view_id="2"
+	snapshot=106
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=63.042856ms
+
+[Info  - 10:03:43] 2025/02/05 10:03:43 go/packages.Load #23
+	view_id="2"
+	snapshot=107
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=54.204848ms
+
+[Info  - 10:03:43] 2025/02/05 10:03:43 go/packages.Load #24
+	view_id="2"
+	snapshot=107
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/routing.go]
+	packages=1
+	duration=50.778079ms
+
+[Error - 10:03:46] 2025/02/05 10:03:46 imports fixes: allImportsFixes: /home/alex/Code/Backend/Go/main.go:18:18: string literal not terminated (and 13 more errors)
+	file="/home/alex/Code/Backend/Go/main.go"
+
+[Info  - 10:03:47] 2025/02/05 10:03:47 go/packages.Load #25
+	view_id="2"
+	snapshot=109
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=52.524838ms
+
+[Info  - 10:03:47] 2025/02/05 10:03:47 go/packages.Load #26
+	view_id="2"
+	snapshot=109
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=63.414109ms
+
+[Info  - 10:03:55] 2025/02/05 10:03:55 background imports cache refresh starting
+
+[Info  - 10:03:55] 2025/02/05 10:03:55 background refresh finished after 3.242851ms
+
+[Info  - 10:05:23] 2025/02/05 10:05:23 go/packages.Load #27
+	view_id="1"
+	snapshot=118
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/httpserver.go]
+	packages=1
+	duration=12.592196ms
+
+[Info  - 10:05:23] 2025/02/05 10:05:23 go/packages.Load #28
+	view_id="1"
+	snapshot=118
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/httpserver.go]
+	packages=1
+	duration=13.021365ms
+
+[Info  - 10:05:24] 2025/02/05 10:05:24 go/packages.Load #29
+	view_id="1"
+	snapshot=120
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/httpserver.go]
+	packages=1
+	duration=220.229829ms
+
+[Info  - 10:05:24] 2025/02/05 10:05:24 go/packages.Load #30
+	view_id="1"
+	snapshot=120
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/httpserver.go]
+	packages=1
+	duration=192.249045ms
+
+[Info  - 10:05:26] 2025/02/05 10:05:26 go/packages.Load #32
+	view_id="2"
+	snapshot=124
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/httpserver.go]
+	packages=1
+	duration=56.747487ms
+
+[Info  - 10:05:26] 2025/02/05 10:05:26 go/packages.Load #31
+	view_id="2"
+	snapshot=124
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/Examples/httpserver.go]
+	packages=1
+	duration=59.833755ms
+
+[Info  - 10:05:54] 2025/02/05 10:05:54 background imports cache refresh starting
+
+[Info  - 10:05:54] 2025/02/05 10:05:54 background refresh finished after 90.542µs
+
+[Info  - 10:05:58] 2025/02/05 10:05:58 background imports cache refresh starting
+
+[Info  - 10:05:58] 2025/02/05 10:05:58 background refresh finished after 1.76876ms
+
+[Info  - 10:11:46] 2025/02/05 10:11:46 go/packages.Load #33
+	view_id="2"
+	snapshot=133
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=67.362447ms
+
+[Info  - 10:11:46] 2025/02/05 10:11:46 go/packages.Load #34
+	view_id="2"
+	snapshot=133
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=54.288103ms
+
+[Info  - 10:12:16] 2025/02/05 10:12:16 background imports cache refresh starting
+
+[Info  - 10:12:16] 2025/02/05 10:12:16 background refresh finished after 4.303657ms
+
+[Info  - 10:22:40] 2025/02/05 10:22:40 go/packages.Load #36
+	view_id="2"
+	snapshot=138
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=100.395789ms
+
+[Info  - 10:22:40] 2025/02/05 10:22:40 go/packages.Load #35
+	view_id="2"
+	snapshot=138
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=123.087369ms
+
+[Error - 10:22:41] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 10:22:41] 2025/02/05 10:22:41 go/packages.Load #41
+	view_id="2"
+	snapshot=141
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=55.06788ms
+
+[Info  - 10:22:41] 2025/02/05 10:22:41 go/packages.Load #40
+	view_id="2"
+	snapshot=141
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=58.175355ms
+
+[Info  - 10:22:52] 2025/02/05 10:22:52 go/packages.Load #42
+	view_id="2"
+	snapshot=145
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=3
+	duration=81.505688ms
+
+[Info  - 10:22:53] 2025/02/05 10:22:53 go/packages.Load #43
+	view_id="2"
+	snapshot=145
+	directory=/home/alex/Code/Backend
+	query=[archive/zip compress/bzip2 database/sql database/sql/driver database/sql_test encoding/json encoding/json_test filippo.io/edwards25519 filippo.io/edwards25519/field flag github.com/go-sql-driver/mysql html html/template html/template_test html_test image image/color internal/cfg internal/platform internal/sysinfo internal/testenv net/http/httptest net/http/internal/testcert os/exec os/signal regexp regexp/syntax regexp_test testing testing/quick text/template text/template/parse text/template_test]
+	packages=91
+	duration=379.755873ms
+
+[Info  - 10:23:11] 2025/02/05 10:23:11 background imports cache refresh starting
+
+[Info  - 10:23:11] 2025/02/05 10:23:11 background refresh finished after 3.867229ms
+
+[Info  - 10:26:34] 2025/02/05 10:26:34 go/packages.Load #44
+	view_id="2"
+	snapshot=146
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=74.485742ms
+
+[Info  - 10:26:34] 2025/02/05 10:26:34 go/packages.Load #45
+	view_id="2"
+	snapshot=146
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=58.924239ms
+
+[Error - 10:26:35] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 10:26:35] 2025/02/05 10:26:35 go/packages.Load #50
+	view_id="2"
+	snapshot=149
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=80.194981ms
+
+[Info  - 10:26:35] 2025/02/05 10:26:35 go/packages.Load #49
+	view_id="2"
+	snapshot=149
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=81.599489ms
+
+[Info  - 10:26:44] 2025/02/05 10:26:44 go/packages.Load #51
+	view_id="2"
+	snapshot=151
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=3
+	duration=60.938126ms
+
+[Info  - 10:26:44] 2025/02/05 10:26:44 go/packages.Load #52
+	view_id="2"
+	snapshot=151
+	directory=/home/alex/Code/Backend
+	query=[archive/zip archive/zip_test compress/bzip2 compress/lzw compress/zlib database/sql database/sql/driver database/sql_test encoding/json encoding/json_test flag flag_test hash/adler32 html html/template html/template_test html_test image image/color image/color/palette image/draw image/gif image/internal/imageutil image/jpeg image/png image_test internal/cfg internal/diff internal/obscuretestdata internal/platform internal/platform_test internal/sysinfo internal/sysinfo_test internal/testenv internal/testenv_test internal/testpty net/http/httptest net/http/httptest_test net/http/internal/testcert os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user regexp regexp/syntax regexp_test testing testing/fstest testing/iotest testing/quick testing_test text/template text/template/parse text/template_test]
+	packages=142
+	duration=438.964697ms
+
+[Info  - 10:27:04] 2025/02/05 10:27:04 background imports cache refresh starting
+
+[Info  - 10:27:04] 2025/02/05 10:27:04 background refresh finished after 7.175623ms
+
+[Info  - 10:28:47] 2025/02/05 10:28:47 background imports cache refresh starting
+
+[Info  - 10:28:47] 2025/02/05 10:28:47 background refresh finished after 8.984924ms
+
+[Info  - 10:28:56] 2025/02/05 10:28:56 go/packages.Load #54
+	view_id="2"
+	snapshot=162
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=82.973205ms
+
+[Info  - 10:28:56] 2025/02/05 10:28:56 go/packages.Load #55
+	view_id="2"
+	snapshot=162
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=90.580955ms
+
+[Info  - 10:29:26] 2025/02/05 10:29:26 background imports cache refresh starting
+
+[Info  - 10:29:26] 2025/02/05 10:29:26 background refresh finished after 3.054516ms
+
+[Info  - 10:36:00] 2025/02/05 10:36:00 Created View (#3)
+	directory=/home/alex/Code/Backend
+	view_type="GoMod"
+	root_dir="file:///home/alex/Code/Backend"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:36:00] 2025/02/05 10:36:00 go/packages.Load #56
+	view_id="3"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/... builtin]
+	packages=2
+	duration=65.330573ms
+
+[Info  - 10:36:01] 2025/02/05 10:36:01 go/packages.Load #57
+	view_id="3"
+	snapshot=1
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/... builtin]
+	packages=2
+	duration=64.222234ms
+
+[Info  - 10:36:30] 2025/02/05 10:36:30 background imports cache refresh starting
+
+[Info  - 10:36:30] 2025/02/05 10:36:30 background refresh finished after 12.271277ms
+
+[Info  - 10:41:24] 2025/02/05 10:41:24 background imports cache refresh starting
+
+[Info  - 10:41:24] 2025/02/05 10:41:24 background refresh finished after 7.865711ms
+
+[Info  - 10:48:06] 2025/02/05 10:48:06 go/packages.Load #58
+	view_id="3"
+	snapshot=9
+	directory=/home/alex/Code/Backend
+	query=[github.com/Alexandre1a/Backend/cmd/api]
+	packages=1
+	duration=6.251743ms
+
+[Info  - 22:59:38] 2025/02/05 22:59:38 Shutdown session
+	shutdown_session=1
+

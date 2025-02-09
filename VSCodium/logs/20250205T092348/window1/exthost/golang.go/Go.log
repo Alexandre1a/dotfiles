@@ -1,0 +1,10 @@
+2025-02-05 09:24:41.408 [info] Try to start language server - activation (enabled: true)
+2025-02-05 09:24:41.439 [info] Running language server gopls(v0.17.1/go1.23.5)
+2025-02-05 09:26:01.043 [info] Running checks...
+2025-02-05 09:26:01.043 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:26:02.634 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:26:02.634 [info] 
+2025-02-05 09:27:21.729 [info] Running checks...
+2025-02-05 09:27:21.729 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:27:21.840 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:27:21.840 [info] 

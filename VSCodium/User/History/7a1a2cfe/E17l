@@ -1,0 +1,37 @@
+# Start from golang base image
+FROM golang:1.23.5-alpine
+
+# Add maintainer info
+LABEL maintainer="Your Name mateialex@outlook.fr"
+
+# Install git and necessary build tools
+RUN apk update && apk add --no-cache git build-base
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy go.mod first (if it exists)
+COPY go.mod ./
+
+# Initialize module if go.mod doesn't exist
+RUN if [ ! -f go.mod ]; then go mod init your-project-name; fi
+
+# Download dependencies for any imported packages
+RUN go get github.com/go-chi/chi/v5 && \
+    go get github.com/go-chi/cors && \
+    go get github.com/golang-jwt/jwt && \
+    go get golang.org/x/crypto/bcrypt && \
+    go get github.com/go-sql-driver/mysql
+
+# Copy the rest of the application
+COPY . .
+
+# Build the application
+RUN go build -o main ./cmd/api
+
+# Expose port 8080
+EXPOSE 8080
+
+# The JWT secret should be passed as an environment variable at runtime
+# rather than being built into the image
+CMD ["/app/main"]

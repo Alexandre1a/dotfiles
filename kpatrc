@@ -1,0 +1,17 @@
+[General Settings]
+RememberStateOnExit=true
+
+[KgTheme]
+Theme=themes/greenblaze.desktop
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Scores]
+loosestreak0=1
+maxloosestreak0=2
+maxwinstreak0=3
+minmoves0=123
+total0=13
+winstreak0=0
+won0=8

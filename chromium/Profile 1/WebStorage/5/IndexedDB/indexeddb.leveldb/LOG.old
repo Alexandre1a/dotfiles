@@ -1,0 +1,13 @@
+2024/12/10-08:04:01.595 a1f Reusing MANIFEST /home/alex/.config/chromium/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/10-08:04:01.595 a1f Recovering log #4
+2024/12/10-08:04:01.596 a1f Reusing old log /home/alex/.config/chromium/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/000004.log 
+2024/12/10-08:04:01.601 a21 Level-0 table #8: started
+2024/12/10-08:04:01.602 a21 Level-0 table #8: 7940 bytes OK
+2024/12/10-08:04:01.602 a21 Delete type=0 #4
+2024/12/10-08:04:01.603 a21 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/10-08:04:01.603 a1f Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0/'\xc0:yB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 330 : 1
+2024/12/10-08:04:01.603 a1f Compacting 1@1 + 1@2 files
+2024/12/10-08:04:01.603 a1f Generated table #9@1: 23 keys, 939 bytes
+2024/12/10-08:04:01.603 a1f Compacted 1@1 + 1@2 files => 939 bytes
+2024/12/10-08:04:01.604 a1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/10-08:04:01.604 a21 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0/'\xc0:yB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 330 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

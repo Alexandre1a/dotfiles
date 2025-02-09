@@ -1,0 +1,12 @@
+[Configuration « SSH »][172.16.42.1]
+hostname=172.16.42.1
+identifier=172.16.42.1
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=alex
+
+[Global plugin config]
+manageProfile=false

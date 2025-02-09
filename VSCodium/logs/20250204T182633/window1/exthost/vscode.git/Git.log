@@ -1,0 +1,6 @@
+2025-02-04 18:26:34.210 [info] [main] Log level: Info
+2025-02-04 18:26:34.210 [info] [main] Validating found git in: "git"
+2025-02-04 18:26:34.210 [info] [main] Using git "2.48.1" from "git"
+2025-02-04 18:26:34.210 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-04 18:26:34.210 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu". Error:Error: ENOENT: no such file or directory, realpath '/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu'
+2025-02-04 18:26:34.210 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

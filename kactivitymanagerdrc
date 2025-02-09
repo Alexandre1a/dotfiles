@@ -1,0 +1,12 @@
+[activities]
+2f5fde9a-fde8-478a-a4b6-acbb1b0a540d=Dev
+7e88d55a-2ff3-4c82-93e0-64b227badf82=Défaut
+
+[activities-descriptions]
+2f5fde9a-fde8-478a-a4b6-acbb1b0a540d=Environement de dévelopement
+
+[activities-icons]
+2f5fde9a-fde8-478a-a4b6-acbb1b0a540d=appimagekit-kitty
+
+[main]
+currentActivity=7e88d55a-2ff3-4c82-93e0-64b227badf82

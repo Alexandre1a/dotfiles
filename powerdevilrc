@@ -1,0 +1,10 @@
+[AC][Display]
+TurnOffDisplayIdleTimeoutSec=-1
+TurnOffDisplayWhenIdle=false
+
+[AC][SuspendAndShutdown]
+AutoSuspendAction=0
+
+[Activities][2f5fde9a-fde8-478a-a4b6-acbb1b0a540d]
+InhibitScreenManagement=false
+InhibitSuspend=false

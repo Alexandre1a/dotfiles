@@ -1,0 +1,22 @@
+[DetailsMode]
+PreviewSize=32
+
+[ExtractDialog]
+1463x914 screen: Height=540
+1463x914 screen: Width=975
+DirHistory[$e]=$HOME/Téléchargements/,$HOME/Téléchargements/Android/Stock FW/To-Recompile/
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,10,2,20,58,48.979
+
+[IconsMode]
+PreviewSize=80
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled

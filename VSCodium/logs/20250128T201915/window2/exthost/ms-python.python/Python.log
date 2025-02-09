@@ -1,0 +1,19 @@
+2025-01-28 20:41:59.890 [info] Telemetry level is off
+2025-01-28 20:41:59.890 [info] Experiments are disabled, only manually opted experiments are active.
+2025-01-28 20:41:59.890 [warning] Dir "/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/.pixi/envs" is not watchable (directory does not exist)
+2025-01-28 20:41:59.890 [info] Starting Environment refresh
+2025-01-28 20:41:59.890 [info] Starting Environment refresh
+2025-01-28 20:41:59.890 [info] > hatch env show --json
+2025-01-28 20:41:59.890 [info] cwd: /run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo
+2025-01-28 20:41:59.891 [info] Environments refresh finished (event): 11 milliseconds
+2025-01-28 20:41:59.891 [info] Environments refresh finished (event): 10 milliseconds
+2025-01-28 20:41:59.891 [info] Environments refresh paths discovered: 11 milliseconds
+2025-01-28 20:41:59.891 [info] Environments refresh paths discovered: 10 milliseconds
+2025-01-28 20:41:59.891 [info] Environment refresh took 11 milliseconds
+2025-01-28 20:41:59.891 [info] Environment refresh took 10 milliseconds
+2025-01-28 20:41:59.894 [info] > pyenv which python
+2025-01-28 20:41:59.894 [info] cwd: /run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo
+2025-01-28 20:41:59.899 [info] Python interpreter path: /bin/python
+2025-01-28 20:42:00.292 [info] Starting Jedi language server for 2 - Station Météo.
+2025-01-28 20:42:17.416 [info] Discover tests for workspace name: undefined - uri: /home/alex/.config/VSCodium/User/settings.json
+2025-01-28 21:36:41.631 [info] CreateEnv Trigger - Skipping for /run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Web/AP.py

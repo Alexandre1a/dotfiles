@@ -1,0 +1,7 @@
+2024/12/10-10:03:06.504 a1f Reusing MANIFEST /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/10-10:03:06.505 a1f Recovering log #3
+2024/12/10-10:03:06.539 a1f Reusing old log /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/000003.log 
+2024/12/10-10:08:01.403 a20 Level-0 table #5: started
+2024/12/10-10:08:01.424 a20 Level-0 table #5: 509857 bytes OK
+2024/12/10-10:08:01.425 a20 Delete type=0 #3
+2024/12/10-10:08:01.426 a20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

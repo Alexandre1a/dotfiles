@@ -1,0 +1,5 @@
+2024/12/09-15:22:29.012 1bb8 Creating DB /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2024/12/09-15:22:29.014 1bb8 Reusing MANIFEST /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/09-16:17:41.354 1bb9 Level-0 table #5: started
+2024/12/09-16:17:41.363 1bb9 Level-0 table #5: 1180302 bytes OK
+2024/12/09-16:17:41.364 1bb9 Delete type=0 #3

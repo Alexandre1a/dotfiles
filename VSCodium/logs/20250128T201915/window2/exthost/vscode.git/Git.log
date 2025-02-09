@@ -1,0 +1,97 @@
+2025-01-28 20:41:40.292 [info] [main] Log level: Info
+2025-01-28 20:41:40.292 [info] [main] Validating found git in: "git"
+2025-01-28 20:41:40.292 [info] [main] Using git "2.48.1" from "git"
+2025-01-28 20:41:40.292 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-28 20:41:40.292 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-28 20:41:57.892 [info] [main] Log level: Info
+2025-01-28 20:41:57.892 [info] [main] Validating found git in: "git"
+2025-01-28 20:41:57.892 [info] [main] Using git "2.48.1" from "git"
+2025-01-28 20:41:57.892 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-28 20:41:57.892 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.892 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:57.895 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.895 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:57.898 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.898 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:57.900 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.900 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:57.903 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.903 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:57.903 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-28 20:41:57.934 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:57.934 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:58.415 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:58.415 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:41:59.673 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:41:59.673 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:01.430 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:42:01.430 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:09.585 [info] > git rev-parse --show-toplevel [9ms]
+2025-01-28 20:42:09.585 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:17.179 [info] > git rev-parse --show-toplevel [5ms]
+2025-01-28 20:42:17.179 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:17.235 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:42:17.235 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:37.196 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-28 20:42:37.196 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:40.768 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-28 20:42:40.768 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:44.806 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-28 20:42:44.806 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:47.953 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-28 20:42:47.953 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:49.794 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-28 20:42:49.794 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:51.599 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-28 20:42:51.599 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:52.888 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:42:52.888 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:54.853 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:42:54.853 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:42:56.364 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-28 20:42:56.364 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:43:01.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:43:01.968 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:43:15.781 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-28 20:43:15.781 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:43:20.279 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:43:20.279 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:43:33.836 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 20:43:33.836 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:43:36.455 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-28 20:43:36.455 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 20:44:04.576 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-28 20:44:04.576 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 21:36:35.105 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-28 21:36:35.105 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-28 21:41:21.872 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-28 21:41:21.872 [info] fatal: not a git repository (or any parent up to mount point /run/media/alex)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

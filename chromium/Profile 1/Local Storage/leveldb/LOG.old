@@ -1,0 +1,14 @@
+2025/01/31-15:55:22.527 4 Reusing MANIFEST /home/alex/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2025/01/31-15:55:22.531 4 Recovering log #34
+2025/01/31-15:55:22.532 4 Level-0 table #37: started
+2025/01/31-15:55:22.533 4 Level-0 table #37: 143408 bytes OK
+2025/01/31-15:55:22.534 4 Delete type=0 #34
+2025/01/31-15:55:22.534 6 Compacting 4@0 + 1@1 files
+2025/01/31-15:55:22.537 6 Generated table #39@0: 390 keys, 195440 bytes
+2025/01/31-15:55:22.537 6 Compacted 4@0 + 1@1 files => 195440 bytes
+2025/01/31-15:55:22.537 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/31-15:55:22.537 6 Delete type=2 #29
+2025/01/31-15:55:22.537 6 Delete type=2 #31
+2025/01/31-15:55:22.537 6 Delete type=2 #33
+2025/01/31-15:55:22.537 6 Delete type=2 #35
+2025/01/31-15:55:22.537 6 Delete type=2 #37

@@ -1,0 +1,8 @@
+[ElisaFileIndexer]
+RootPath[$e]=$HOME/Musique,$HOME/Server/Media/Musique
+
+[UiSettings]
+ColorScheme=
+
+[Views]
+ViewStylePreferences=FileName==GridStyle

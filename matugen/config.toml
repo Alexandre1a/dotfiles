@@ -1,0 +1,13 @@
+[config.wallpaper]
+command = "swww"
+arguments = ["img", "--transition-type", "center"]
+set = true
+
+[templates.hyprland]
+input_path = "~/.config/matugen/hyprland-colors.conf"
+output_path = "~/.config/hypr/colors.conf"
+post_hook = "hyprctl reload"
+
+[templates.kitty]
+input_path = "~/.config/matugen/kitty-colors.conf"
+output_path = "~/.config/kitty/colors.conf"

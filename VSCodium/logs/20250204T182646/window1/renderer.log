@@ -1,0 +1,8 @@
+2025-02-04 18:26:47.083 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:47.083 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:47.084 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:47.213 [info] Started local extension host with pid 5716.
+2025-02-04 18:26:47.328 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:47.328 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:47.328 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:49.827 [info] [perf] Render performance baseline is 17ms

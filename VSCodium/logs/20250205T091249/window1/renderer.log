@@ -1,0 +1,39 @@
+2025-02-05 09:12:49.404 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:12:49.404 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:12:49.405 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:12:49.544 [info] Started local extension host with pid 14892.
+2025-02-05 09:12:49.710 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:12:49.711 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:12:49.711 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:12:52.145 [info] [perf] Render performance baseline is 14ms
+2025-02-05 09:12:54.834 [error] Timed out waiting for authentication provider to register
+2025-02-05 09:13:15.200 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:15.200 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:15.201 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:20.393 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:13:20.394 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:13:20.394 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:13:20.569 [info] Started local extension host with pid 15787.
+2025-02-05 09:13:20.698 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:20.698 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:20.698 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:13:21.392 [error] Error: Unable to read file 'git:/home/alex/Code/GoShell/go.mod?{"path":"/home/alex/Code/GoShell/go.mod","ref":"HEAD"}' (Error: Unable to resolve nonexistent file 'git:/home/alex/Code/GoShell/go.mod?{"path":"/home/alex/Code/GoShell/go.mod","ref":"HEAD"}')
+    at $rt.restoreReadError (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:89977)
+    at $rt.doReadFileStream (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:89758)
+    at async iat.doRead (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3115:12971)
+    at async iat.readStream (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3115:12726)
+    at async Mge.resolveFromFile (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:15912)
+    at async Mge.resolve (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:14074)
+2025-02-05 09:13:24.048 [info] [perf] Render performance baseline is 17ms
+2025-02-05 09:13:25.792 [error] Timed out waiting for authentication provider to register
+2025-02-05 09:19:17.381 [warning] [backup tracker] suspended, ignoring unregister event file:///home/alex/Code/Dockerfile 
+2025-02-05 09:19:17.564 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:19:17.564 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:19:17.564 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-05 09:19:17.679 [info] Started local extension host with pid 17006.
+2025-02-05 09:19:17.860 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:19:17.861 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:19:17.861 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-05 09:19:17.919 [warning] No search provider registered for scheme: file, waiting
+2025-02-05 09:19:20.269 [info] [perf] Render performance baseline is 17ms
+2025-02-05 09:19:22.933 [error] Timed out waiting for authentication provider to register

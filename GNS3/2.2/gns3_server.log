@@ -1,0 +1,48 @@
+2025-02-03 17:16:37 INFO run.py:217 GNS3 server version 2.2.53
+2025-02-03 17:16:37 INFO run.py:219 Copyright (c) 2007-2025 GNS3 Technologies Inc.
+2025-02-03 17:16:37 INFO run.py:222 Config file /home/alex/.config/GNS3/2.2/gns3_server.conf loaded
+2025-02-03 17:16:37 WARNING run.py:228 Local mode is enabled. Beware, clients will have full control on your filesystem
+2025-02-03 17:16:37 INFO run.py:235 HTTP authentication is enabled with username 'admin'
+2025-02-03 17:16:37 INFO run.py:241 Running with Python 3.13.1 and has PID 2240
+2025-02-03 17:16:37 INFO run.py:77 Current locale is fr_FR.UTF-8
+2025-02-03 17:16:37 INFO web_server.py:344 Starting server on localhost:3080
+2025-02-03 17:16:37 INFO __init__.py:69 Load controller configuration file /home/alex/.config/GNS3/2.2/gns3_controller.conf
+2025-02-03 17:16:37 INFO __init__.py:73 Controller is starting
+2025-02-03 17:16:37 INFO __init__.py:328 Installing base configs in '/home/alex/GNS3/configs'
+2025-02-03 17:16:37 INFO __init__.py:341 Installing built-in disks in '/home/alex/GNS3/images/QEMU'
+2025-02-03 17:16:37 INFO __init__.py:254 Comparing controller version 2.2.53 with config version 2.2.52
+2025-02-03 17:16:37 INFO appliance_manager.py:102 Installing built-in appliances in '/home/alex/.local/share/GNS3/appliances'
+2025-02-03 17:16:37 INFO compute.py:68 Create compute local
+2025-02-03 17:16:37 INFO compute.py:368 Connecting to compute 'local'
+2025-02-03 17:16:37 INFO web_log.py:211 127.0.0.1 [03/Feb/2025:17:16:37 +0100] "GET /v2/compute/capabilities HTTP/1.1" 200 553 "-" "Python/3.13 aiohttp/3.10.5"
+2025-02-03 17:16:37 INFO web_server.py:247 Computing image checksums...
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/version HTTP/1.1" 200 228 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO notification_handler.py:50 New client has connected to compute WebSocket
+2025-02-03 17:16:37 INFO compute.py:435 Connected to compute 'local' WebSocket 'http://localhost:3080/v2/compute/notifications/ws'
+2025-02-03 17:16:37 INFO web_server.py:249 Finished computing image checksums
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/version HTTP/1.1" 200 228 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO notification_handler.py:73 New client has connected to controller WebSocket
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/templates HTTP/1.1" 200 2500 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/computes HTTP/1.1" 200 1021 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/appliances?symbol_theme=Classic HTTP/1.1" 200 1034291 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/projects HTTP/1.1" 200 1419 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/projects HTTP/1.1" 200 1419 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/hub.svg/raw HTTP/1.1" 200 7637 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/vpcs_guest.svg/raw HTTP/1.1" 200 19496 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/ethernet_switch.svg/raw HTTP/1.1" 200 9274 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/frame_relay_switch.svg/raw HTTP/1.1" 200 10028 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/nat.svg/raw HTTP/1.1" 200 31059 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/cloud.svg/raw HTTP/1.1" 200 27983 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:37 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/symbols/%3A/symbols/atm_switch.svg/raw HTTP/1.1" 200 9960 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:39 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:39 +0100] "GET /v2/templates HTTP/1.1" 200 2500 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:39 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:39 +0100] "GET /v2/appliances?symbol_theme=Classic HTTP/1.1" 200 1034291 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:39 INFO server_handler.py:53 Start shutting down the server
+2025-02-03 17:16:39 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:39 +0100] "POST /v2/shutdown HTTP/1.1" 201 195 "-" "GNS3 QT Client v2.2.53"
+2025-02-03 17:16:39 INFO web_server.py:115 Closing 2 websocket connections...
+2025-02-03 17:16:39 INFO compute.py:461 Connection closed to compute 'local' WebSocket 'http://localhost:3080/v2/compute/notifications/ws'
+2025-02-03 17:16:39 INFO notification_handler.py:82 Client has disconnected from controller WebSocket
+2025-02-03 17:16:39 INFO web_log.py:211 ::1 [03/Feb/2025:17:16:37 +0100] "GET /v2/notifications/ws HTTP/1.1" 200 0 "-" "-"
+2025-02-03 17:16:40 INFO notification_handler.py:59 Client has disconnected from compute WebSocket
+2025-02-03 17:16:40 INFO web_log.py:211 127.0.0.1 [03/Feb/2025:17:16:37 +0100] "GET /v2/compute/notifications/ws HTTP/1.1" 200 0 "-" "Python/3.13 aiohttp/3.10.5"
+2025-02-03 17:16:40 INFO __init__.py:145 Controller is stopping
+2025-02-03 17:16:40 INFO run.py:277 Remove PID file /home/alex/.config/GNS3/2.2/gns3_server.pid

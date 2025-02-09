@@ -1,0 +1,58 @@
+{
+   "checksum": "341f7698d27f9cd4746f87d6d6af5c28",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13378223791505095",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13378225101858663",
+            "date_last_used": "13378294942821622",
+            "guid": "4dbb01c7-4ff5-4648-805f-599fc13e143a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GeForce NOW",
+            "type": "url",
+            "url": "https://play.geforcenow.com/mall/#/layout/games"
+         }, {
+            "date_added": "13378228111216467",
+            "date_last_used": "0",
+            "guid": "76f88aa1-7d75-4a7d-a8e6-219c22ac41b9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Alexandre_1a (u/Alexandre_1a) - Reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/user/Alexandre_1a/saved/"
+         } ],
+         "date_added": "13378223791505097",
+         "date_last_used": "0",
+         "date_modified": "13378228111216467",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378223791505098",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

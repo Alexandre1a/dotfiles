@@ -1,0 +1,6 @@
+2024/12/09-15:45:32.554 1bba Creating DB /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb since it was missing.
+2024/12/09-15:45:32.555 1bba Reusing MANIFEST /home/alex/.config/chromium/Profile 1/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/09-15:48:37.720 1bb9 Level-0 table #5: started
+2024/12/09-15:48:37.724 1bb9 Level-0 table #5: 1470319 bytes OK
+2024/12/09-15:48:37.724 1bb9 Delete type=0 #3
+2024/12/09-15:48:37.725 1bb9 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

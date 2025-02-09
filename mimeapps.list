@@ -1,0 +1,7 @@
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;chromium-browser.desktop;
+video/x-matroska=vlc.desktop;org.kde.dragonplayer.desktop;mpv.desktop;
+
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop;
+video/x-matroska=vlc.desktop;

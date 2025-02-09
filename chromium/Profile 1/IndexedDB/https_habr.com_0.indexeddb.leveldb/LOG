@@ -1,0 +1,6 @@
+2024/12/09-17:25:46.709 1bba Creating DB /home/alex/.config/chromium/Profile 1/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
+2024/12/09-17:25:46.714 1bba Reusing MANIFEST /home/alex/.config/chromium/Profile 1/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/09-17:26:11.043 1bb9 Level-0 table #5: started
+2024/12/09-17:26:11.044 1bb9 Level-0 table #5: 1012 bytes OK
+2024/12/09-17:26:11.046 1bb9 Delete type=0 #3
+2024/12/09-17:26:11.046 1bb9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

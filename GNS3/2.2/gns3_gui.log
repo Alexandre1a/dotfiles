@@ -1,0 +1,5 @@
+2025-02-03 17:16:36 INFO logger.py:125 Log level: INFO
+2025-02-03 17:16:36 INFO main.py:264 GNS3 GUI version 2.2.53
+2025-02-03 17:16:36 INFO main.py:265 Copyright (c) 2007-2025 GNS3 Technologies Inc.
+2025-02-03 17:16:36 INFO main.py:266 Application started with /usr/bin/gns3
+2025-02-03 17:16:37 INFO controller.py:436 Listening for controller notifications on 'ws://localhost:3080/v2/notifications/ws'

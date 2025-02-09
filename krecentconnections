@@ -1,0 +1,7 @@
+[General]
+Index=Laptop_Arch
+
+[Laptop_Arch]
+Port=22
+Type=Fish
+URL=sftp://alex@192.168.72.231:22/home/alex

@@ -1,0 +1,16 @@
+- host:
+    title: Pablo
+    description: Le serveur de Pablo
+    address: ovhmc.freeboxos.fr
+    network_port: "49152"
+    username: mcservereal
+- host:
+    title: Home
+    description: My Homeserver
+    address: alexandre42.freeboxos.fr
+    username: alex
+- host:
+    title: RPI
+    description: Rasperry pi Zero
+    address: raspberrypi.local
+    username: alex

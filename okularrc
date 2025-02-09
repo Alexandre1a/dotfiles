@@ -1,0 +1,36 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/alex/DEBIAN 12_6/aLycée/Enseignement Scientifique/SVT/cours chap1 cellule et microscope.pdf
+File10[$e]=$HOME/Bureau/Compte Rendu de notre Station MétéoV4.pdf
+File2[$e]=mtp:/Redmi Note 7/Espace de stockage interne partagé/Download/TD6. ES Puissance solaire et albédo.pdf
+File3[$e]=/run/media/alex/DEBIAN 12_6/aLycée/NSI/10-Type-construit/Types construits/pdf/Types construits eleve.pdf
+File4[$e]=/run/media/alex/DEBIAN 12_6/aLycée/NSI/10-Type-construit/Types construits/Synthèse/Types construits - synthèse.pdf
+File5[$e]=$HOME/Téléchargements/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle
+File6[$e]=$HOME/Documents/Lycée/NSI/14 - Mini Projets/2 - Station Météo/Station_Météo.pdf
+File7[$e]=$HOME/Documents/Lycée/NSI/3 - Codage des Caractères/Codage Texte - Elève.pdf
+File8[$e]=$HOME/Bureau/Compte Rendu de notre Station Météo.pdf
+File9[$e]=$HOME/Bureau/Compte Rendu de notre Station MétéoV2.pdf
+Name1[$e]=cours chap1 cellule et microscope.pdf
+Name10[$e]=Compte Rendu de notre Station MétéoV4.pdf
+Name2[$e]=TD6. ES Puissance solaire et albédo.pdf
+Name3[$e]=Types construits eleve.pdf
+Name4[$e]=Types construits - synthèse.pdf
+Name5[$e]=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle
+Name6[$e]=Station_Météo.pdf
+Name7[$e]=Codage Texte - Elève.pdf
+Name8[$e]=Compte Rendu de notre Station Météo.pdf
+Name9[$e]=Compte Rendu de notre Station MétéoV2.pdf
+
+[UiSettings]
+ColorScheme=KvAdaptaDark

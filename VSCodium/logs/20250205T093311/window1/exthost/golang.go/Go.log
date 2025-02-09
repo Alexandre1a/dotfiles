@@ -1,0 +1,135 @@
+2025-02-05 09:43:24.997 [info] Try to start language server - activation (enabled: true)
+2025-02-05 09:43:25.032 [info] Running language server gopls(v0.17.1/go1.23.5)
+2025-02-05 09:44:58.815 [info] Running checks...
+2025-02-05 09:44:58.815 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:44:59.485 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:44:59.485 [info] /home/alex/Code/Backend/Go/main.go:46:3 this value of err is never used (SA4006)
+2025-02-05 09:44:59.485 [info] 
+2025-02-05 09:45:26.037 [info] Running checks...
+2025-02-05 09:45:26.037 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:45:26.153 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:45:26.153 [info] /home/alex/Code/Backend/Go/main.go:46:3 this value of err is never used (SA4006)
+2025-02-05 09:45:26.153 [info] 
+2025-02-05 09:45:34.146 [info] Running checks...
+2025-02-05 09:45:34.146 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:45:34.226 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:45:34.226 [info] /home/alex/Code/Backend/Go/main.go:46:3 this value of err is never used (SA4006)
+2025-02-05 09:45:34.226 [info] 
+2025-02-05 09:50:16.833 [info] Running checks...
+2025-02-05 09:50:16.833 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:50:16.946 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:50:16.946 [info] 
+2025-02-05 09:51:03.610 [info] Running checks...
+2025-02-05 09:51:03.610 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:51:03.901 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:51:03.901 [info] 
+2025-02-05 09:55:28.282 [info] Running checks...
+2025-02-05 09:55:28.282 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:55:28.376 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:55:28.376 [info] 
+2025-02-05 09:55:43.893 [info] Running checks...
+2025-02-05 09:55:43.893 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:55:43.983 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:55:43.983 [info] 
+2025-02-05 09:55:44.499 [info] Running checks...
+2025-02-05 09:55:44.499 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:55:44.584 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:55:44.584 [info] 
+2025-02-05 09:57:34.625 [info] Running checks...
+2025-02-05 09:57:34.625 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:57:34.754 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:57:34.754 [info] 
+2025-02-05 09:59:03.418 [info] Running checks...
+2025-02-05 09:59:03.418 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:59:03.537 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:59:03.537 [info] 
+2025-02-05 09:59:29.211 [info] Running checks...
+2025-02-05 09:59:29.211 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:59:29.320 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:59:29.320 [info] 
+2025-02-05 09:59:41.569 [info] Running checks...
+2025-02-05 09:59:41.569 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:59:41.677 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:59:41.677 [info] 
+2025-02-05 09:59:56.686 [info] Running checks...
+2025-02-05 09:59:56.686 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 09:59:56.793 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 09:59:56.793 [info] 
+2025-02-05 10:01:24.348 [info] Running checks...
+2025-02-05 10:01:24.348 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:01:24.564 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:01:24.564 [info] 
+2025-02-05 10:01:36.032 [info] Running checks...
+2025-02-05 10:01:36.032 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:01:36.144 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:01:36.144 [info] 
+2025-02-05 10:01:41.000 [info] Running checks...
+2025-02-05 10:01:41.000 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:01:41.123 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:01:41.123 [info] 
+2025-02-05 10:03:25.786 [info] Running checks...
+2025-02-05 10:03:25.786 [info] Starting linting the current package at /home/alex/Code/Backend/Go/Examples
+2025-02-05 10:03:25.911 [info] /home/alex/Code/Backend/Go/Examples>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:03:25.911 [info] 
+2025-02-05 10:03:47.385 [info] Running checks...
+2025-02-05 10:03:47.385 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:03:47.467 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:03:47.467 [info] 
+2025-02-05 10:03:50.215 [info] Running checks...
+2025-02-05 10:03:50.215 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:03:50.328 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:03:50.328 [info] 
+2025-02-05 10:05:24.682 [info] Running checks...
+2025-02-05 10:05:24.682 [info] Starting linting the current package at /home/alex/Code/Backend
+2025-02-05 10:05:24.711 [info] /home/alex/Code/Backend>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:05:24.711 [info] 
+2025-02-05 10:05:28.241 [info] Running checks...
+2025-02-05 10:05:28.241 [info] Starting linting the current package at /home/alex/Code/Backend/Go/Examples
+2025-02-05 10:05:28.319 [info] /home/alex/Code/Backend/Go/Examples>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:05:28.319 [info] /home/alex/Code/Backend/Go/Examples/routing.go:10:6 main redeclared in this block
+2025-02-05 10:05:28.319 [info] 
+2025-02-05 10:11:46.946 [info] Running checks...
+2025-02-05 10:11:46.946 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:11:47.047 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:11:47.047 [info] 
+2025-02-05 10:22:41.412 [info] Running checks...
+2025-02-05 10:22:41.412 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:22:41.514 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:22:41.514 [info] /home/alex/Code/Backend/Go/main.go:8:2 no required module provides package github.com/go-chi/chi/v5; to add it:
+2025-02-05 10:22:41.514 [info] /home/alex/Code/Backend/Go/main.go:9:2 no required module provides package github.com/go-chi/chi/v5/middleware; to add it:
+2025-02-05 10:22:41.514 [info] /home/alex/Code/Backend/Go/main.go:10:2 no required module provides package github.com/go-chi/cors; to add it:
+2025-02-05 10:22:41.514 [info] 
+2025-02-05 10:22:42.982 [info] Running checks...
+2025-02-05 10:22:42.982 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:22:43.062 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:22:43.062 [info] /home/alex/Code/Backend/Go/main.go:8:2 no required module provides package github.com/go-chi/chi/v5; to add it:
+2025-02-05 10:22:43.062 [info] /home/alex/Code/Backend/Go/main.go:9:2 no required module provides package github.com/go-chi/chi/v5/middleware; to add it:
+2025-02-05 10:22:43.062 [info] /home/alex/Code/Backend/Go/main.go:10:2 no required module provides package github.com/go-chi/cors; to add it:
+2025-02-05 10:22:43.062 [info] 
+2025-02-05 10:26:35.196 [info] Running checks...
+2025-02-05 10:26:35.196 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:26:35.449 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:26:35.449 [info] /home/alex/Code/Backend/Go/main.go:14:2 no required module provides package github.com/go-sql-driver/mysql; to add it:
+2025-02-05 10:26:35.449 [info] /home/alex/Code/Backend/Go/main.go:15:2 no required module provides package github.com/golang-jwt/jwt; to add it:
+2025-02-05 10:26:35.449 [info] /home/alex/Code/Backend/Go/main.go:16:2 no required module provides package golang.org/x/crypto/bcrypt; to add it:
+2025-02-05 10:26:35.449 [info] 
+2025-02-05 10:28:17.998 [info] Running checks...
+2025-02-05 10:28:17.998 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:28:18.080 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:28:18.080 [info] /home/alex/Code/Backend/Go/main.go:74:9 undefined: authMiddleware
+2025-02-05 10:28:18.080 [info] /home/alex/Code/Backend/Go/main.go:81:9 undefined: adminMiddleware (compile)
+2025-02-05 10:28:18.080 [info] 
+2025-02-05 10:28:56.795 [info] Running checks...
+2025-02-05 10:28:56.796 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:28:56.897 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:28:56.897 [info] /home/alex/Code/Backend/Go/main.go:331:14 undefined: Claims
+2025-02-05 10:28:56.897 [info] /home/alex/Code/Backend/Go/main.go:357:50 undefined: Claims (compile)
+2025-02-05 10:28:56.897 [info] 
+2025-02-05 10:29:13.787 [info] Running checks...
+2025-02-05 10:29:13.787 [info] Starting linting the current package at /home/alex/Code/Backend/Go
+2025-02-05 10:29:13.991 [info] /home/alex/Code/Backend/Go>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:29:13.991 [info] 
+2025-02-05 10:40:54.345 [info] Running checks...
+2025-02-05 10:40:54.345 [info] Starting linting the current package at /home/alex/Code/Backend/cmd/api
+2025-02-05 10:40:54.513 [info] /home/alex/Code/Backend/cmd/api>Finished running tool: /home/alex/go/bin/staticcheck
+2025-02-05 10:40:54.513 [info] 

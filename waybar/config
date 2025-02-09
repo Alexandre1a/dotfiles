@@ -1,0 +1,120 @@
+// TODO: Fix missing fonts problem
+{
+	"layer": "top",
+	"position": "bottom",
+	// TODO: Add 30 margin after adding transparent background & Add padding
+	"margin-left": 0,
+	"margin-right": 0,
+
+	"modules-left": [
+    "custom/nix", 
+    "hyprland/workspaces",
+	],
+  
+  "modules-center": [
+		"clock",
+  ],
+
+	"modules-right": [
+    "pulseaudio",
+    "backlight",
+		"battery",
+    "network",
+    "custom/power",
+	"tray"
+	],
+
+	"battery": {
+		"interval": 10,
+		"states": {
+			"warning": 30,
+			"critical": 15
+		},
+		"format-time": "{H}:{M:02}",
+		"format": "<span color='#f5e0dc'>{icon}</span>  {capacity}%",
+		"format-charging": "<span color='#f5e0dc'> </span> {capacity}%",
+		"format-charging-full": "<span color='#f5e0dc'> </span> {capacity}%",
+		"format-full": "{icon}  {capacity}%",
+		"format-alt": "{icon}  {power}W",
+		"format-icons": [
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		"tooltip": false
+	},
+     "clock": {
+  "format": "<span color='#f5e0dc'>  </span>{:%I:%M %p}",
+  "format-alt": "{:%A, %B %d, %Y (%R)}",
+  "tooltip-format": false, 
+}, 
+ 
+ "custom/nix": {
+    "format": "<span color='#f5e0dc'>❄ </span>",
+    "tooltip":false,
+  },
+
+  "custom/power": {
+    "format": "<span color='#f5e0dc'>⏻</span>",
+    "on-click": "exec wlogout",
+    "tooltip":false
+  },
+  
+"network": {
+		"interval": 5,
+		"format-wifi": "<span color='#f5e0dc'> </span> {essid}",
+		"format-ethernet": "{ifname}",
+		"format-disconnected": "<span color='#ffffff'>󰖪 </span>",
+		"format-alt": "{ipaddr}/{cidr}",
+		"tooltip": false
+	},
+
+ "wlr/workspaces": {
+      "active-only": false,
+      "all-outputs": false,
+      "disable-scroll": false,
+      "format": "{name}",
+      "format-icons": {
+        "active": "",
+        "default": "",
+        "sort-by-number": true,
+        "urgent": ""
+      },
+      "on-click": "activate",
+      "on-scroll-down": "hyprctl dispatch workspace e+1",
+      "on-scroll-up": "hyprctl dispatch workspace e-1"
+    },
+  
+  "backlight": {
+      "device": "intel_backlight",
+      "format": "<span color='#f5e0dc'>{icon} </span>{percent}%",
+      "format-icons": ["", "", "", "", "", "", "", "", ""],
+      "tooltip": false
+},
+	
+  "pulseaudio": {
+		"format": "<span color='#f5e0dc'>{icon} </span> {volume}%",
+		"format-bluetooth": "{icon}  {volume}%",
+		"format-muted": "",
+		"format-icons": {
+			"headphone": "",
+			// TODO: Fix bad icons
+			"hands-free": "",
+			"headset": "",
+			"phone": "",
+			"portable": "",
+			"car": "",
+			"default": ["", ""]
+		},
+		"scroll-step": 1,
+		"on-click": "pavucontrol",
+		"tooltip": false
+	},
+
+	"tray": {
+		"spacing": 10,
+	},
+
+}

@@ -1,0 +1,47 @@
+[Info  - 20:19:17] 2025/01/28 20:19:17 Created View (#1)
+	directory=/home/alex/Code
+	view_type="AdHoc"
+	root_dir="file:///home/alex/Code"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 20:19:17] 2025/01/28 20:19:17 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/alex/Code
+	query=[./ builtin]
+	packages=2
+	duration=43.201735ms
+
+[Info  - 20:19:17] 2025/01/28 20:19:17 Created View (#2)
+	directory=/home/alex/Code
+	view_type="AdHoc"
+	root_dir="file:///home/alex/Code/GoShell"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 20:19:17] 2025/01/28 20:19:17 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/alex/Code
+	query=[./ builtin]
+	packages=2
+	duration=141.241349ms
+
+[Info  - 20:19:47] 2025/01/28 20:19:47 background imports cache refresh starting
+
+[Info  - 20:19:47] 2025/01/28 20:19:47 background refresh finished after 2.969787ms
+
+[Info  - 20:19:47] 2025/01/28 20:19:47 background imports cache refresh starting
+
+[Info  - 20:19:47] 2025/01/28 20:19:47 background refresh finished after 2.344612ms
+
+[Info  - 22:35:17] 2025/01/28 22:35:17 Shutdown session
+	shutdown_session=1
+

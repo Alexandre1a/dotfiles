@@ -1,0 +1,27 @@
+2025-02-07 15:07:39.553 [info] [main] Log level: Info
+2025-02-07 15:07:39.553 [info] [main] Validating found git in: "git"
+2025-02-07 15:07:39.553 [info] [main] Using git "2.48.1" from "git"
+2025-02-07 15:07:39.553 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-07 15:07:39.553 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-07 15:07:39.554 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-02-07 15:07:39.557 [info] [Model][openRepository] Opened repository: /home/alex/Code/Backend
+2025-02-07 15:07:39.571 [info] > git rev-parse --show-toplevel [11ms]
+2025-02-07 15:07:39.571 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-07 15:07:39.571 [info] > git config --get commit.template [12ms]
+2025-02-07 15:07:39.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-02-07 15:07:39.582 [info] > git status -z -uall [2ms]
+2025-02-07 15:07:39.582 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2025-02-07 15:07:39.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-02-07 15:07:39.591 [info] > git config --local branch.main.vscode-merge-base [0ms]
+2025-02-07 15:07:39.593 [info] > git config --get commit.template [5ms]
+2025-02-07 15:07:39.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-02-07 15:07:39.605 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2025-02-07 15:07:39.607 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-02-07 15:07:39.622 [info] > git diff --name-status -z --diff-filter=ADMR 933a98fdcfba4178feff4c7d5136c389c1b1f592...refs/remotes/origin/main [15ms]
+2025-02-07 15:07:39.627 [info] > git status -z -uall [2ms]
+2025-02-07 15:07:39.628 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-02-07 15:07:39.867 [info] > git show --textconv :README.md [3ms]
+2025-02-07 15:07:39.868 [info] > git ls-files --stage -- /home/alex/Code/Backend/README.md [1ms]
+2025-02-07 15:07:39.871 [info] > git cat-file -s 5b9a17edc147ac7b2079a3aa4917cebf01210b9e [1ms]
+2025-02-07 15:07:39.891 [info] > git blame --root --incremental 933a98fdcfba4178feff4c7d5136c389c1b1f592 -- /home/alex/Code/Backend/README.md [1ms]
+2025-02-07 15:07:40.075 [info] > git check-ignore -v -z --stdin [1ms]

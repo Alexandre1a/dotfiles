@@ -1,0 +1,93 @@
+[Info  - 09:24:41] 2025/02/05 09:24:41 Created View (#1)
+	directory=/home/alex/Code/Backend
+	view_type="AdHoc"
+	root_dir="file:///home/alex/Code/Backend"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 09:24:41] 2025/02/05 09:24:41 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[./ builtin]
+	packages=2
+	duration=17.769363ms
+
+[Info  - 09:24:41] 2025/02/05 09:24:41 Created View (#2)
+	directory=/home/alex/Code/Backend
+	view_type="AdHoc"
+	root_dir="file:///home/alex/Code/Backend/Go"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 09:24:41] 2025/02/05 09:24:41 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[./ builtin]
+	packages=2
+	duration=99.752778ms
+
+[Info  - 09:25:11] 2025/02/05 09:25:11 background imports cache refresh starting
+
+[Info  - 09:25:11] 2025/02/05 09:25:11 background refresh finished after 3.506306ms
+
+[Info  - 09:25:11] 2025/02/05 09:25:11 background imports cache refresh starting
+
+[Info  - 09:25:11] 2025/02/05 09:25:11 background refresh finished after 2.182634ms
+
+[Info  - 09:25:14] 2025/02/05 09:25:14 Created View (#3)
+	directory=/home/alex/Code/Backend
+	view_type="GoMod"
+	root_dir="file:///home/alex/Code/Backend/Go"
+	go_version="go version go1.23.5 linux/arm64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:arm64 GOCACHE:/home/alex/.cache/go-build GOMODCACHE:/home/alex/go/pkg/mod GOPATH:/home/alex/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/local/go GoVersion:23 GoVersionOutput:go version go1.23.5 linux/arm64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 09:25:14] 2025/02/05 09:25:14 go/packages.Load #3
+	view_id="3"
+	snapshot=0
+	directory=/home/alex/Code/Backend
+	query=[/home/alex/Code/Backend/Go/... builtin]
+	packages=2
+	duration=52.247586ms
+
+[Info  - 09:25:44] 2025/02/05 09:25:44 background imports cache refresh starting
+
+[Info  - 09:25:44] 2025/02/05 09:25:44 background refresh finished after 68.365902ms
+
+[Error - 09:26:00] 2025/02/05 09:26:00 imports fixes: allImportsFixes: /home/alex/Code/Backend/Go/main.go:4:3: illegal rune literal (and 5 more errors)
+	file="/home/alex/Code/Backend/Go/main.go"
+
+[Info  - 09:26:00] 2025/02/05 09:26:00 go/packages.Load #4
+	view_id="3"
+	snapshot=3
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=125.194173ms
+
+[Info  - 09:26:00] 2025/02/05 09:26:00 go/packages.Load #5
+	view_id="3"
+	snapshot=3
+	directory=/home/alex/Code/Backend
+	query=[file=/home/alex/Code/Backend/Go/main.go]
+	packages=1
+	duration=64.398053ms
+
+[Info  - 09:26:31] 2025/02/05 09:26:31 background imports cache refresh starting
+
+[Info  - 09:26:31] 2025/02/05 09:26:31 background refresh finished after 13.098178ms
+
+[Info  - 09:27:51] 2025/02/05 09:27:51 background imports cache refresh starting
+
+[Info  - 09:27:51] 2025/02/05 09:27:51 background refresh finished after 4.565528ms
+

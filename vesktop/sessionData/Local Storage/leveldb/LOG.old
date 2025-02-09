@@ -1,0 +1,5 @@
+2025/01/30-20:22:39.937 e33 Reusing MANIFEST /home/alex/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/01/30-20:22:39.943 e33 Recovering log #219
+2025/01/30-20:22:39.943 e33 Reusing old log /home/alex/.config/vesktop/sessionData/Local Storage/leveldb/000219.log 
+2025/01/30-20:23:54.526 e49 Level-0 table #224: started
+2025/01/30-20:23:54.529 e49 Level-0 table #224: 66832 bytes OK

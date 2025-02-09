@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.94118,0,0,2.94118,-8.3207,-73.6213)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.4" >
+<path vector-effect="none" fill-rule="nonzero" d="M15.5249,36.2586 L12.7973,33.531 L15.5241,30.8041 C15.9297,30.3984 15.9297,29.7409 15.5241,29.3353 C15.1184,28.9299 14.4608,28.9299 14.0557,29.3353 L11.3287,32.0625 L8.60169,29.3353 C8.19633,28.9299 7.53886,28.9298 7.13317,29.3355 C6.72772,29.741 6.72772,30.3985 7.13334,30.8041 L9.86035,33.531 L7.13312,36.2586 C6.72767,36.664 6.72767,37.3217 7.13312,37.727 C7.336,37.9298 7.60162,38.0313 7.86745,38.0313 C8.1333,38.0313 8.39891,37.9298 8.60179,37.727 L11.329,34.9995 L14.0565,37.727 C14.2593,37.9298 14.525,38.0313 14.7907,38.0313 C15.0563,38.0313 15.3223,37.9298 15.5248,37.727 C15.9304,37.3217 15.9304,36.664 15.5248,36.2586 L15.5249,36.2586"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.94118,0,0,2.94118,-8.3207,-73.6213)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.2" >
+<path vector-effect="none" fill-rule="nonzero" d="M2.82904,25.0313 L2.82904,26.0313 L2.82904,41.0313 L2.82904,42.0313 L19.829,42.0313 L19.829,41.0313 L19.829,26.0313 L19.829,25.0313 L2.82904,25.0313 M3.82904,26.0313 L18.829,26.0313 L18.829,41.0313 L3.82904,41.0313 L3.82904,26.0313"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

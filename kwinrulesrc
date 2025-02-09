@@ -1,0 +1,12 @@
+[60f840b9-64c4-44e7-8424-9e29e4ce6ac5]
+Description=Always make terminal fs when launching
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=kitty
+wmclassmatch=1
+
+[General]
+count=1
+rules=60f840b9-64c4-44e7-8424-9e29e4ce6ac5

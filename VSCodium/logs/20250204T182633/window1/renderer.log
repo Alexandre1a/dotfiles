@@ -1,0 +1,17 @@
+2025-02-04 18:26:33.486 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:33.486 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:33.486 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-04 18:26:33.618 [info] Started local extension host with pid 5313.
+2025-02-04 18:26:33.800 [error] [ms-python.python]: Menu item references a command `python.launchTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:33.800 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:33.801 [error] [ms-python.python]: Menu item references a command `python.refreshTensorBoard` which is not defined in the 'commands' section.
+2025-02-04 18:26:36.294 [info] [perf] Render performance baseline is 17ms
+2025-02-04 18:26:37.732 [error] Unable to read file '/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu/Rewrite.py' (Error: Unable to resolve nonexistent file '/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu/Rewrite.py'): Error: Unable to read file '/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu/Rewrite.py' (Error: Unable to resolve nonexistent file '/run/media/alex/DEBIAN 12_6/aLycée/NSI/14 - Mini Projets/2 - Station Météo/Compte Rendu/Rewrite.py')
+    at $rt.restoreReadError (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:89977)
+    at $rt.doReadFileStream (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:89758)
+    at async iat.doRead (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3115:12971)
+    at async iat.readStream (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3115:12726)
+    at async Mge.resolveFromFile (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:15912)
+    at async Mge.resolve (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:14074)
+    at async vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:3115:7687
+2025-02-04 18:26:39.064 [error] Timed out waiting for authentication provider to register

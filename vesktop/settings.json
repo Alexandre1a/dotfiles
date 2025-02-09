@@ -1,0 +1,10 @@
+{
+    "discordBranch": "stable",
+    "minimizeToTray": true,
+    "arRPC": true,
+    "splashColor": "rgb(220, 221, 222)",
+    "splashBackground": "oklab(0.321044 -0.000249296 -0.00927344)",
+    "staticTitle": true,
+    "splashTheming": true,
+    "clickTrayToShowHide": true
+}

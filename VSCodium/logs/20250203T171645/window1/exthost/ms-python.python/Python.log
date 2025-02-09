@@ -1,0 +1,5 @@
+2025-02-03 17:16:47.132 [info] Telemetry level is off
+2025-02-03 17:16:47.132 [info] Experiments are disabled, only manually opted experiments are active.
+2025-02-03 17:16:47.140 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2024.23.0-dev-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2024.23.0-dev-universal/python_files/interpreterInfo.py
+2025-02-03 17:16:47.171 [info] Python interpreter path: /bin/python
+2025-02-03 17:16:47.709 [info] Starting Jedi language server for default.

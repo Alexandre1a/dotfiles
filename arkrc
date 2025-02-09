@@ -1,0 +1,11 @@
+[ExtractDialog]
+1600x1000 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Téléchargements/Build you own X projects/,$HOME/Documents/Rice/,$HOME/Téléchargements/Android/Stock FW/,$HOME/Téléchargements/Android/,$HOME/Téléchargements/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

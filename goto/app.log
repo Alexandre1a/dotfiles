@@ -1,0 +1,288 @@
+2024/12/09 15:59:07 [INFO] [MAIN] Start application
+2024/12/09 15:59:07 [INFO] [MAIN] Version:    N/A
+2024/12/09 15:59:07 [INFO] [MAIN] Commit:     N/A
+2024/12/09 15:59:07 [INFO] [MAIN] Branch:     N/A
+2024/12/09 15:59:07 [INFO] [MAIN] Build date: N/A
+2024/12/09 15:59:07 [INFO] [APPSTATE] Can't read application state from file 'open /home/alex/.config/goto/state.yaml: no such file or directory'
+2024/12/09 15:59:07 [INFO] [STORAGE] Path no found: /home/alex/.config/goto/hosts.yaml. Assuming it's not created yet
+2024/12/09 15:59:52 [INFO] [EXEC] Run process: '/usr/bin/ssh'
+2024/12/09 15:59:52 [INFO] [EXEC] Terminate process with reason usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]. Error ignored.
+2024/12/09 16:02:26 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ov'
+2024/12/09 16:02:26 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ov
+2024/12/09 16:02:27 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc'
+2024/12/09 16:02:27 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc
+2024/12/09 16:02:29 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.free'
+2024/12/09 16:02:29 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.free
+2024/12/09 16:02:30 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freebox'
+2024/12/09 16:02:30 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freebox
+2024/12/09 16:02:31 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freebo'
+2024/12/09 16:02:31 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freebo
+2024/12/09 16:02:32 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.'
+2024/12/09 16:02:32 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.
+2024/12/09 16:02:33 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:33 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:35 [INFO] [UI] Save changes for host id: 0
+2024/12/09 16:02:35 [INFO] [STORAGE] Save host with id: 1, title: Pablo
+2024/12/09 16:02:35 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:35 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:36 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:36 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:37 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:37 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:37 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:37 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:38 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:38 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:38 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:38 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:38 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:38 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:41 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:41 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:41 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:41 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:43 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:02:43 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:02:45 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal ovhmc.freeboxos.fr'
+2024/12/09 16:03:30 [ERRO] [EXEC] Terminate process with reason signal: interrupt
+2024/12/09 16:03:31 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:03:31 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:03:33 [INFO] [MAIN] Close application
+2024/12/09 16:03:40 [INFO] [MAIN] Start application
+2024/12/09 16:03:40 [INFO] [MAIN] Version:    N/A
+2024/12/09 16:03:40 [INFO] [MAIN] Commit:     N/A
+2024/12/09 16:03:40 [INFO] [MAIN] Branch:     N/A
+2024/12/09 16:03:40 [INFO] [MAIN] Build date: N/A
+2024/12/09 16:03:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:03:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:03:41 [INFO] [MAIN] Close application
+2024/12/09 16:07:40 [INFO] [MAIN] Start application
+2024/12/09 16:07:40 [INFO] [MAIN] Version:    N/A
+2024/12/09 16:07:40 [INFO] [MAIN] Commit:     N/A
+2024/12/09 16:07:40 [INFO] [MAIN] Branch:     N/A
+2024/12/09 16:07:40 [INFO] [MAIN] Build date: N/A
+2024/12/09 16:07:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:07:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:07:42 [INFO] [MAIN] Close application
+2024/12/09 16:08:43 [INFO] [MAIN] Start application
+2024/12/09 16:08:43 [INFO] [MAIN] Version:    N/A
+2024/12/09 16:08:43 [INFO] [MAIN] Commit:     N/A
+2024/12/09 16:08:43 [INFO] [MAIN] Branch:     N/A
+2024/12/09 16:08:43 [INFO] [MAIN] Build date: N/A
+2024/12/09 16:08:43 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:08:43 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:08:44 [INFO] [MAIN] Close application
+2024/12/09 16:16:05 [INFO] [MAIN] Start application
+2024/12/09 16:16:05 [INFO] [MAIN] Version:    N/A
+2024/12/09 16:16:05 [INFO] [MAIN] Commit:     N/A
+2024/12/09 16:16:05 [INFO] [MAIN] Branch:     N/A
+2024/12/09 16:16:05 [INFO] [MAIN] Build date: N/A
+2024/12/09 16:16:05 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2024/12/09 16:16:05 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2024/12/09 16:16:05 [INFO] [MAIN] Close application
+2025/01/20 08:44:40 [INFO] [MAIN] Start application
+2025/01/20 08:44:40 [INFO] [MAIN] Version:    N/A
+2025/01/20 08:44:40 [INFO] [MAIN] Commit:     N/A
+2025/01/20 08:44:40 [INFO] [MAIN] Branch:     N/A
+2025/01/20 08:44:40 [INFO] [MAIN] Build date: N/A
+2025/01/20 08:44:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:41 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:41 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:41 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:41 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:42 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:44:42 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:44:58 [INFO] [EXEC] Run process: '/usr/bin/ssh'
+2025/01/20 08:44:58 [INFO] [EXEC] Terminate process with reason usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]. Error ignored.
+2025/01/20 08:45:00 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre'
+2025/01/20 08:45:00 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre
+2025/01/20 08:45:01 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.'
+2025/01/20 08:45:01 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.
+2025/01/20 08:45:02 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.Fr'
+2025/01/20 08:45:02 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.Fr
+2025/01/20 08:45:02 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.fr'
+2025/01/20 08:45:02 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.fr
+2025/01/20 08:45:03 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.free'
+2025/01/20 08:45:03 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.free
+2025/01/20 08:45:03 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freebo'
+2025/01/20 08:45:03 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freebo
+2025/01/20 08:45:04 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freebox'
+2025/01/20 08:45:04 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freebox
+2025/01/20 08:45:04 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freeboxos'
+2025/01/20 08:45:04 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freeboxos
+2025/01/20 08:45:05 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freeboxos.'
+2025/01/20 08:45:05 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freeboxos.
+2025/01/20 08:45:05 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freeboxos.r'
+2025/01/20 08:45:05 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freeboxos.r
+2025/01/20 08:45:06 [INFO] [EXEC] Run process: '/usr/bin/ssh -G alexandre42.freeboxos.fr'
+2025/01/20 08:45:06 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G alexandre42.freeboxos.fr
+2025/01/20 08:45:18 [INFO] [UI] Save changes for host id: 0
+2025/01/20 08:45:18 [INFO] [STORAGE] Save host with id: 2, title: Home
+2025/01/20 08:45:18 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/20 08:45:18 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/20 08:45:19 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:45:19 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:45:19 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/20 08:45:19 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/20 08:45:19 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex alexandre42.freeboxos.fr'
+2025/01/20 08:45:31 [ERRO] [EXEC] Terminate process with reason signal: interrupt
+2025/01/20 08:45:32 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/20 08:45:32 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/20 08:45:33 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/20 08:45:33 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/20 08:45:35 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex alexandre42.freeboxos.fr'
+2025/01/20 08:45:40 [ERRO] [EXEC] Terminate process with reason signal: interrupt
+2025/01/20 08:45:40 [INFO] [MAIN] Close application
+2025/01/23 20:18:26 [INFO] [MAIN] Start application
+2025/01/23 20:18:26 [INFO] [MAIN] Version:    N/A
+2025/01/23 20:18:26 [INFO] [MAIN] Commit:     N/A
+2025/01/23 20:18:26 [INFO] [MAIN] Branch:     N/A
+2025/01/23 20:18:26 [INFO] [MAIN] Build date: N/A
+2025/01/23 20:18:26 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:18:26 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:18:37 [INFO] [EXEC] Run process: '/usr/bin/ssh'
+2025/01/23 20:18:37 [INFO] [EXEC] Terminate process with reason usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]. Error ignored.
+2025/01/23 20:18:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -G ras'
+2025/01/23 20:18:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G ras
+2025/01/23 20:18:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -G rasp'
+2025/01/23 20:18:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G rasp
+2025/01/23 20:18:45 [INFO] [EXEC] Run process: '/usr/bin/ssh'
+2025/01/23 20:18:45 [INFO] [EXEC] Terminate process with reason usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
+           [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+           [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J destination] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-P tag] [-p port] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           destination [command [argument ...]]
+       ssh [-Q query_option]. Error ignored.
+2025/01/23 20:18:46 [INFO] [EXEC] Run process: '/usr/bin/ssh -G raspberrypi.local'
+2025/01/23 20:18:46 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -G raspberrypi.local
+2025/01/23 20:18:57 [INFO] [UI] Save changes for host id: 0
+2025/01/23 20:18:57 [INFO] [STORAGE] Save host with id: 3, title: RPI
+2025/01/23 20:18:57 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:18:57 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:18:58 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:18:58 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:18:58 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:18:58 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:18:58 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:18:58 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:18:59 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex raspberrypi.local'
+2025/01/23 20:39:40 [ERRO] [EXEC] Terminate process with reason Permission denied, please try again.
+Connection to raspberrypi.local closed by remote host.
+Connection to raspberrypi.local closed.
+2025/01/23 20:40:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:40:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:40:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:40:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:40:39 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:39 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:40:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:40:40 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:40 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:41 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal ovhmc.freeboxos.fr'
+2025/01/23 20:40:45 [ERRO] [EXEC] Terminate process with reason ssh: connect to host ovhmc.freeboxos.fr port 49152: Network is unreachable
+2025/01/23 20:40:45 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:45 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:45 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:45 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:45 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:45 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:45 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:45 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:46 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:46 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:46 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:46 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:46 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex alexandre42.freeboxos.fr'
+2025/01/23 20:40:53 [ERRO] [EXEC] Terminate process with reason signal: interrupt
+2025/01/23 20:40:55 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:55 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:55 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:40:55 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:40:56 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:56 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:56 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:40:56 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:40:56 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:40:56 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:40:56 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:40:56 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:40:57 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex raspberrypi.local'
+2025/01/23 20:49:01 [INFO] [MAIN] Start application
+2025/01/23 20:49:01 [INFO] [MAIN] Version:    N/A
+2025/01/23 20:49:01 [INFO] [MAIN] Commit:     N/A
+2025/01/23 20:49:01 [INFO] [MAIN] Branch:     N/A
+2025/01/23 20:49:01 [INFO] [MAIN] Build date: N/A
+2025/01/23 20:49:01 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/01/23 20:49:01 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/01/23 20:49:02 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/01/23 20:49:02 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/01/23 20:49:02 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:49:02 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:49:03 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/01/23 20:49:03 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/01/23 20:49:09 [INFO] [MAIN] Close application
+2025/01/23 20:52:01 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex raspberrypi.local
+2025/01/23 20:52:02 [INFO] [MAIN] Close application
+2025/02/03 16:03:10 [INFO] [MAIN] Start application
+2025/02/03 16:03:10 [INFO] [MAIN] Version:    N/A
+2025/02/03 16:03:10 [INFO] [MAIN] Commit:     N/A
+2025/02/03 16:03:10 [INFO] [MAIN] Branch:     N/A
+2025/02/03 16:03:10 [INFO] [MAIN] Build date: N/A
+2025/02/03 16:03:10 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/02/03 16:03:10 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/02/03 16:03:11 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G raspberrypi.local'
+2025/02/03 16:03:11 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G raspberrypi.local
+2025/02/03 16:03:11 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/02/03 16:03:11 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/02/03 16:03:12 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/02/03 16:03:12 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/02/03 16:03:12 [INFO] [EXEC] Run process: '/usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr'
+2025/02/03 16:03:12 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -p 49152 -l mcservereal -G ovhmc.freeboxos.fr
+2025/02/03 16:03:12 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex -G alexandre42.freeboxos.fr'
+2025/02/03 16:03:12 [INFO] [EXEC] Terminate process gracefully: /usr/bin/ssh -l alex -G alexandre42.freeboxos.fr
+2025/02/03 16:03:13 [INFO] [EXEC] Run process: '/usr/bin/ssh -l alex alexandre42.freeboxos.fr'

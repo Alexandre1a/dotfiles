@@ -1,0 +1,13 @@
+2025-02-07 15:07:39.129 [info] Extension host with pid 109639 started
+2025-02-07 15:07:39.129 [info] Skipping acquiring lock for /home/alex/.config/VSCodium/User/workspaceStorage/67c4e54ed13c7426f12974678a157fcf.
+2025-02-07 15:07:39.235 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-07 15:07:39.246 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-02-07 15:07:39.253 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-02-07 15:07:39.447 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-07 15:07:39.476 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-07 15:07:39.508 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-07 15:07:39.520 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-02-07 15:07:39.546 [info] Eager extensions activated
+2025-02-07 15:07:39.560 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-07 15:07:39.562 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-07 15:07:39.607 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

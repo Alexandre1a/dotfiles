@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-7e88d55a-2ff3-4c82-93e0-64b227badf82]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kwrite.desktop,applications:org.kde.konsole.desktop,applications:org.kde.discover.desktop,applications:dev.zed.Zed.desktop,applications:com.github.iwalton3.jellyfin-media-player.desktop,applications:libreoffice-writer.desktop,applications:net.veloren.airshipper.desktop,applications:chromium-browser.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kwrite.desktop,applications:org.kde.konsole.desktop,applications:org.kde.discover.desktop,applications:dev.zed.Zed.desktop,applications:com.github.iwalton3.jellyfin-media-player.desktop,applications:libreoffice-writer.desktop,applications:net.veloren.airshipper.desktop,applications:chromium-browser.desktop

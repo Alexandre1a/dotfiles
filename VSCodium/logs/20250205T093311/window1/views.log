@@ -1,0 +1,17 @@
+2025-02-05 09:33:11.574 [info] Added views:outline in workbench.view.explorer
+2025-02-05 09:33:11.574 [info] Added views:workbench.view.search in workbench.view.search
+2025-02-05 09:33:11.574 [info] Added views:workbench.scm in workbench.view.scm
+2025-02-05 09:33:11.574 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-02-05 09:33:11.574 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-02-05 09:33:11.574 [info] Added views:terminal in terminal
+2025-02-05 09:33:11.574 [info] Added views:timeline in workbench.view.explorer
+2025-02-05 09:33:11.574 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-02-05 09:33:11.675 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-02-05 09:33:11.820 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2025-02-05 09:33:11.845 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-02-05 09:33:12.018 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-02-05 09:33:12.257 [info] Added views:workbench.scm.history in workbench.view.scm
+2025-02-05 09:43:25.041 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2025-02-05 09:43:25.042 [info] Added views:go.explorer in workbench.view.explorer
+2025-02-05 22:59:38.699 [info] Removed views:workbench.scm.history from workbench.view.scm
+2025-02-05 22:59:38.706 [info] Removed views:workbench.view.testing from workbench.view.extension.test

@@ -1,0 +1,18 @@
+# Build stage
+FROM golang:alpine AS builder
+RUN apk add --no-cache git
+
+WORKDIR /app
+COPY ./Go . 
+
+RUN go mod tidy && \
+    CGO_ENABLED=0 GOOS=linux go build -o /app/main
+
+# Final stage
+FROM alpine:latest
+RUN apk --no-cache add ca-certificates
+
+COPY --from=builder /app/main /app
+ENTRYPOINT ["/app"]
+LABEL Name=backend Version=0.0.1
+EXPOSE 80
